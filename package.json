@@ -1,0 +1,24 @@
+{
+  "name": "kodillaFE_week08ex05_js_if",
+  "version": "1.0.0",
+  "description": "If-statement in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w08e05-js-if.git"
+  },
+  "keywords": [
+    "js",
+    "if-statement",
+    "condition"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w08e05-js-if/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w08e05-js-if#readme"
+}
